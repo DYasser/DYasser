@@ -13,9 +13,10 @@ I'm always working on something, and often too excited about it to stop and upda
 
 Feel free to reach out and see what I'm up to now 💬
 
+<br>
 
 <p align="center"> 
-  <a src="https://www.linkedin.com/in/nabilyasser/">
+  <a href="https://www.linkedin.com/in/nabilyasser/">
     <img style="width:40px; height=40px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></img>
   </a>
 </p>
