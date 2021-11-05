@@ -5,7 +5,7 @@
 
 A bit about me:
 * Nationality: :morocco: / :ukraine:	
-* Personal interests: 🏐 💪 🕹️ 💻 🛫
+* Personal interests: 🏐 💪 🕹️ 💻 🛫 🎹 🎨
 * Countries I've visited: :morocco:	:ukraine: :ru: :cn: :hong_kong: :philippines:
 * Current location: 📍 Casablanca, Morocco
 
