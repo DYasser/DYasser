@@ -9,7 +9,7 @@ A bit about me:
 * Countries I've visited: :morocco:	:ukraine: :ru: :cn: :hong_kong: :philippines:
 * Current location: 📍 Casablanca, Morocco
 
-I'm always working on something, and often too excited about it to stop.
+I'm always working on something, and often too excited about it to stop
 
 Feel free to reach out and see what I'm up to now 💬
 
