@@ -6,8 +6,8 @@
 A bit about me:
 * Nationality: :morocco: / :ukraine:	
 * Personal interests: 🏐 💪 🕹️ 💻 🛫 🎹 🎨
-* Countries I've visited: :morocco:	:ukraine: :ru: :cn: :hong_kong: :philippines:
-* Current location: 📍 Geneva, Switzerland
+* Countries I've visited: :morocco:	:ukraine: :ru: :cn: :hong_kong: :philippines: :fr: :es: :switzerland:
+* Current location: 📍 Casablanca, Morocco
 
 I'm always working on something, and often too excited about it to stop
 
