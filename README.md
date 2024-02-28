@@ -6,7 +6,7 @@
 A bit about me:
 * Nationality: :morocco: / :ukraine:	
 * Personal interests: 🏐 💪 🕹️ 💻 🛫 🎹 🎨
-* Countries I've visited: :morocco:	:ukraine: :ru: :cn: :hong_kong: :philippines: :fr: :es: :switzerland: :de: :it:
+* Countries I've visited: :morocco:	:ukraine: :cn: :hong_kong: :philippines: :fr: :es: :switzerland: :de: :it: :canada: :poland: 
 * Current location: 📍 Padova, Italy
 
 I'm always working on something, and often too excited about it to stop
