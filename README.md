@@ -1,7 +1,7 @@
 # Hey there, feel free to check out what I've been up to!
 ## Software Enthusiast
 
-💻 I'm currently working on honing my software skills in general, but I took a liking to web dev ⚡️
+💻 I'm currently working on honing my full-stack skills ⚡️
 
 A bit about me:
 * Nationality: :morocco: / :ukraine:	
