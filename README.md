@@ -1,4 +1,4 @@
-# Hey there, feel free to check out what I've been up to!
+# Hey there, I'm Yasser!
 ## Software Enthusiast
 
 💻 I'm currently working on honing my full-stack skills ⚡️
