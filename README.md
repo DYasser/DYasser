@@ -20,3 +20,8 @@ Feel free to reach out and see what I'm up to now 💬
     <img style="width:40px; height=40px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></img>
   </a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,spring,maven,eclipse,idea,vscode,javascript,typescript,vue,express,react,nodejs,angular,html,css,linux,anaconda,python,pytorch,tensorflow,sklearn,matlab,selenium,pycharm,opencv,django,mysql,mongodb,bootstrap,git,gitlab,github,githubactions,docker,kubernetes,firebase,postman,npm,aws," />
+</p>
