@@ -23,5 +23,5 @@ Feel free to reach out and see what I'm up to now 💬
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,spring,maven,eclipse,idea,vscode,javascript,typescript,vue,express,react,nodejs,angular,html,css,linux,anaconda,python,pytorch,tensorflow,sklearn,matlab,selenium,pycharm,opencv,django,mysql,mongodb,bootstrap,git,gitlab,github,githubactions,docker,kubernetes,firebase,postman,npm,aws," />
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,spring,eclipse,idea,vscode,javascript,typescript,vue,express,nodejs,angular,html,css,linux,anaconda,python,pytorch,tensorflow,sklearn,matlab,selenium,pycharm,mysql,mongodb,bootstrap,git,gitlab,github,githubactions,docker,kubernetes,firebase,postman,npm,aws," />
 </p>
